@@ -12,8 +12,6 @@
   "languages": [
     {
       "language": "ru",
-      "default": true,
-      "href": "/ru",
       "tabs": [
         {
           "tab": "База знаний",
@@ -24,27 +22,41 @@
                 "ru/kb/start/index",
                 "ru/kb/start/terms",
                 "ru/kb/start/first-trip",
-                "ru/kb/start/common-mistakes",
-                "ru/kb/start/checklists/index",
-                "ru/kb/start/checklists/shore",
-                "ru/kb/start/checklists/boat",
-                "ru/kb/start/checklists/overnight",
-                "ru/kb/start/checklists/ice"
+                "ru/kb/start/common-mistakes"
               ]
             }
           ]
         }
       ]
     },
-    { "language": "en", "href": "/en", "tabs": [{ "tab": "Knowledge base", "groups": [{ "group": "Getting started", "pages": ["en/index"] }] }] },
-    { "language": "de", "href": "/de", "tabs": [{ "tab": "Wissensdatenbank", "groups": [{ "group": "Erste Schritte", "pages": ["de/index"] }] }] },
-    { "language": "fr", "href": "/fr", "tabs": [{ "tab": "Base de connaissances", "groups": [{ "group": "Démarrage", "pages": ["fr/index"] }] }] },
-    { "language": "es", "href": "/es", "tabs": [{ "tab": "Base de conocimiento", "groups": [{ "group": "Primeros pasos", "pages": ["es/index"] }] }] }
+    {
+      "language": "en",
+      "tabs": [
+        { "tab": "Knowledge base", "groups": [{ "group": "Getting started", "pages": ["en/index"] }] }
+      ]
+    },
+    {
+      "language": "de",
+      "tabs": [
+        { "tab": "Wissensdatenbank", "groups": [{ "group": "Erste Schritte", "pages": ["de/index"] }] }
+      ]
+    },
+    {
+      "language": "fr",
+      "tabs": [
+        { "tab": "Base de connaissances", "groups": [{ "group": "Démarrage", "pages": ["fr/index"] }] }
+      ]
+    },
+    {
+      "language": "es",
+      "tabs": [
+        { "tab": "Base de conocimiento", "groups": [{ "group": "Primeros pasos", "pages": ["es/index"] }] }
+      ]
+    }
   ],
   "global": {
-    "anchors": [
-      { "anchor": "OneFish", "href": "https://onefish.kz", "icon": "fish" }
-    ]
+    "anchors": [{ "anchor": "OneFish", "href": "https://onefish.kz", "icon": "fish" }]
   }
 }
+
 }

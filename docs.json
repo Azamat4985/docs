@@ -16,8 +16,20 @@
         {
           "tab": "База знаний",
           "groups": [
-            { "group": "Новичку", "pages": ["ru/index", "ru/kb/start/first-trip"] },
-            { "group": "Снасти", "pages": ["ru/kb/gear/rods"] }
+            {
+  "group": "Старт для новичка",
+  "pages": [
+    "ru/kb/start/index",
+    "ru/kb/start/terms",
+    "ru/kb/start/first-trip",
+    "ru/kb/start/common-mistakes",
+    "ru/kb/start/checklists/index",
+    "ru/kb/start/checklists/shore",
+    "ru/kb/start/checklists/boat",
+    "ru/kb/start/checklists/overnight",
+    "ru/kb/start/checklists/ice"
+  ]
+}
           ]
         }
       ]

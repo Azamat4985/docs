@@ -8,115 +8,71 @@
     "dark": "#15803D"
   },
   "favicon": "/favicon.svg",
-  "navigation": {
-    "tabs": [
-      {
-        "tab": "Guides",
-        "groups": [
-          {
-            "group": "Getting started",
-            "pages": [
-              "index",
-              "quickstart",
-              "development"
-            ]
-          },
-          {
-            "group": "Customization",
-            "pages": [
-              "essentials/settings",
-              "essentials/navigation"
-            ]
-          },
-          {
-            "group": "Writing content",
-            "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/reusable-snippets"
-            ]
-          },
-          {
-            "group": "AI tools",
-            "pages": [
-              "ai-tools/cursor",
-              "ai-tools/claude-code",
-              "ai-tools/windsurf"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "API reference",
-        "groups": [
-          {
-            "group": "API documentation",
-            "pages": [
-              "api-reference/introduction"
-            ]
-          },
-          {
-            "group": "Endpoint examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
-            ]
-          }
-        ]
-      }
-    ],
-    "global": {
-      "anchors": [
+"navigation": {
+  "languages": [
+    {
+      "language": "ru",
+      "tabs": [
         {
-          "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
-          "icon": "book-open-cover"
-        },
+          "tab": "База знаний",
+          "groups": [
+            { "group": "Новичку", "pages": ["ru/index", "ru/kb/start/first-trip"] },
+            { "group": "Снасти", "pages": ["ru/kb/gear/rods"] }
+          ]
+        }
+      ]
+    },
+    {
+      "language": "en",
+      "tabs": [
         {
-          "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
-          "icon": "newspaper"
+          "tab": "Knowledge base",
+          "groups": [
+            { "group": "Getting started", "pages": ["en/index", "en/kb/start/first-trip"] },
+            { "group": "Gear", "pages": ["en/kb/gear/rods"] }
+          ]
+        }
+      ]
+    },
+    {
+      "language": "de",
+      "tabs": [
+        {
+          "tab": "Wissensdatenbank",
+          "groups": [
+            { "group": "Erste Schritte", "pages": ["de/index", "de/kb/start/first-trip"] }
+          ]
+        }
+      ]
+    },
+    {
+      "language": "fr",
+      "tabs": [
+        {
+          "tab": "Base de connaissances",
+          "groups": [
+            { "group": "Démarrage", "pages": ["fr/index", "fr/kb/start/first-trip"] }
+          ]
+        }
+      ]
+    },
+    {
+      "language": "es",
+      "tabs": [
+        {
+          "tab": "Base de conocimiento",
+          "groups": [
+            { "group": "Primeros pasos", "pages": ["es/index", "es/kb/start/first-trip"] }
+          ]
         }
       ]
     }
-  },
-  "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
-  },
-  "navbar": {
-    "links": [
-      {
-        "label": "Support",
-        "href": "mailto:hi@mintlify.com"
-      }
-    ],
-    "primary": {
-      "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
-    }
-  },
-  "contextual": {
-    "options": [
-     "copy",
-     "view",
-     "chatgpt",
-     "claude",
-     "perplexity",
-     "mcp",
-     "cursor",
-     "vscode"
-   ]
-  },
-  "footer": {
-    "socials": {
-      "x": "https://x.com/mintlify",
-      "github": "https://github.com/mintlify",
-      "linkedin": "https://linkedin.com/company/mintlify"
-    }
+  ],
+  "global": {
+    "anchors": [
+      { "anchor": "OneFish", "href": "https://onefish.kz", "icon": "fish" }
+    ]
   }
+}
+
 }

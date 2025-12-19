@@ -23,6 +23,12 @@
                 "ru/kb/start/first-trip",
                 "ru/kb/start/check-lists"
               ]
+            },
+            {
+              "group": "Снаряжение",
+              "pages": [
+                "rru/kb/equipment/rods"
+              ]
             }
           ]
         }

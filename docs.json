@@ -60,10 +60,7 @@
         { "tab": "Base de conocimiento", "groups": [{ "group": "Primeros pasos", "pages": ["es/index"] }] }
       ]
     }
-  ],
-  "global": {
-    "anchors": [{ "anchor": "OneFish", "href": "https://onefish.kz", "icon": "fish" }]
-  }
+  ]
 }
 
 }

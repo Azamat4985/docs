@@ -27,6 +27,7 @@
               {
                 "group": "Снаряжение",
                 "pages": [
+                  "ru/baza-znaniy/snaryazhenie/kryuchki",
                   "ru/baza-znaniy/snaryazhenie/leski-i-pletenki",
                   "ru/kb/equipment/rods",
                   "ru/kb/equipment/baits",

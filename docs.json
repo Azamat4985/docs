@@ -27,6 +27,7 @@
               {
                 "group": "Снаряжение",
                 "pages": [
+                  "ru/baza-znaniy/snaryazhenie/katushki",
                   "ru/baza-znaniy/snaryazhenie/elektronika",
                   "ru/kb/equipment/rods",
                   "ru/baza-znaniy/snaryazhenie/leski-i-pletenki",

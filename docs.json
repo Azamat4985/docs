@@ -9,58 +9,99 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-  "languages": [
-    {
-      "language": "ru",
-      "tabs": [
-        {
-          "tab": "База знаний",
-          "groups": [
-            {
-              "group": "Старт для новичка",
-              "pages": [
-                "ru/kb/start/overview",
-                "ru/kb/start/first-trip",
-                "ru/kb/start/check-lists"
-              ]
-            },
-            {
-              "group": "Снаряжение",
-              "pages": [
-                "ru/kb/equipment/rods",
-                "ru/kb/equipment/baits",
-                "ru/kb/equipment/lure"
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "language": "en",
-      "tabs": [
-        { "tab": "Knowledge base", "groups": [{ "group": "Getting started", "pages": ["en/index"] }] }
-      ]
-    },
-    {
-      "language": "de",
-      "tabs": [
-        { "tab": "Wissensdatenbank", "groups": [{ "group": "Erste Schritte", "pages": ["de/index"] }] }
-      ]
-    },
-    {
-      "language": "fr",
-      "tabs": [
-        { "tab": "Base de connaissances", "groups": [{ "group": "Démarrage", "pages": ["fr/index"] }] }
-      ]
-    },
-    {
-      "language": "es",
-      "tabs": [
-        { "tab": "Base de conocimiento", "groups": [{ "group": "Primeros pasos", "pages": ["es/index"] }] }
-      ]
-    }
-  ]
-}
+    "languages": [
+      {
+        "language": "ru",
+        "tabs": [
+          {
+            "tab": "База знаний",
+            "groups": [
+              {
+                "group": "Старт для новичка",
+                "pages": [
+                  "ru/kb/start/overview",
+                  "ru/kb/start/first-trip",
+                  "ru/kb/start/check-lists"
+                ]
+              },
+              {
+                "group": "Снаряжение",
+                "pages": [
+                  "ru/baza-znaniy/snaryazhenie/leski-i-pletenki",
+                  "ru/kb/equipment/rods",
+                  "ru/kb/equipment/baits",
+                  "ru/kb/equipment/lure"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "language": "en",
+        "tabs": [
+          {
+            "tab": "Knowledge base",
+            "groups": [
+              {
+                "group": "Getting started",
+                "pages": [
+                  "en/index"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "language": "de",
+        "tabs": [
+          {
+            "tab": "Wissensdatenbank",
+            "groups": [
+              {
+                "group": "Erste Schritte",
+                "pages": [
+                  "de/index"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "language": "fr",
+        "tabs": [
+          {
+            "tab": "Base de connaissances",
+            "groups": [
+              {
+                "group": "Démarrage",
+                "pages": [
+                  "fr/index"
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "language": "es",
+        "tabs": [
+          {
+            "tab": "Base de conocimiento",
+            "groups": [
+              {
+                "group": "Primeros pasos",
+                "pages": [
+                  "es/index"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
 
 }

@@ -19,8 +19,8 @@
               {
                 "group": "Локации и водоемы",
                 "pages": [
-                  "ru/baza-znaniy/lokatsii-i-vodoemy/untitled-page",
-                  "ru/baza-znaniy/lokatsii-i-vodoemy/predislovie"
+                  "ru/baza-znaniy/lokatsii-i-vodoemy/predislovie",
+                  "ru/baza-znaniy/lokatsii-i-vodoemy/untitled-page"
                 ]
               },
               {
@@ -34,13 +34,13 @@
               {
                 "group": "Снаряжение",
                 "pages": [
-                  "ru/baza-znaniy/snaryazhenie/katushki",
-                  "ru/baza-znaniy/snaryazhenie/elektronika",
                   "ru/kb/equipment/rods",
                   "ru/baza-znaniy/snaryazhenie/leski-i-pletenki",
+                  "ru/baza-znaniy/snaryazhenie/katushki",
                   "ru/baza-znaniy/snaryazhenie/kryuchki",
                   "ru/kb/equipment/baits",
-                  "ru/kb/equipment/lure"
+                  "ru/kb/equipment/lure",
+                  "ru/baza-znaniy/snaryazhenie/elektronika"
                 ]
               }
             ]

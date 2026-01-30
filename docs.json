@@ -17,6 +17,12 @@
             "tab": "База знаний",
             "groups": [
               {
+                "group": "Локации и водоемы",
+                "pages": [
+                  "ru/baza-znaniy/lokatsii-i-vodoemy/predislovie"
+                ]
+              },
+              {
                 "group": "Старт для новичка",
                 "pages": [
                   "ru/kb/start/overview",

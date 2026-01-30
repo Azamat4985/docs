@@ -17,14 +17,6 @@
             "tab": "База знаний",
             "groups": [
               {
-                "group": "Локации и водоемы",
-                "pages": [
-                  "ru/baza-znaniy/lokatsii-i-vodoemy/predislovie",
-                  "ru/baza-znaniy/lokatsii-i-vodoemy/untitled-page",
-                  "ru/baza-znaniy/lokatsii-i-vodoemy/untitled-page-1"
-                ]
-              },
-              {
                 "group": "Старт для новичка",
                 "pages": [
                   "ru/kb/start/overview",
@@ -42,6 +34,14 @@
                   "ru/kb/equipment/baits",
                   "ru/kb/equipment/lure",
                   "ru/baza-znaniy/snaryazhenie/elektronika"
+                ]
+              },
+              {
+                "group": "Локации и водоемы",
+                "pages": [
+                  "ru/baza-znaniy/lokatsii-i-vodoemy/predislovie",
+                  "ru/baza-znaniy/lokatsii-i-vodoemy/untitled-page",
+                  "ru/baza-znaniy/lokatsii-i-vodoemy/untitled-page-1"
                 ]
               }
             ]
